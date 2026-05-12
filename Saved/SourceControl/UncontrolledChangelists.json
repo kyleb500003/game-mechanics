@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/AlvWasHere/Documents/Unreal Projects/RetroStealth_Project/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/AlvWasHere/Documents/Unreal Projects/RetroStealth_Project/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
+				"C:/Users/AlvWasHere/Documents/Unreal Projects/RetroStealth_Project/Content/ThirdPerson/Blueprints/AIC_Enemy.uasset",
+				"C:/Users/AlvWasHere/Documents/Unreal Projects/RetroStealth_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/AlvWasHere/Documents/Unreal Projects/RetroStealth_Project/Content/ThirdPerson/Blueprints/BP_Keycard.uasset",
+				"C:/Users/AlvWasHere/Documents/Unreal Projects/RetroStealth_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/C6/SXA7DXMFZDYHVK23J9Q71Z.uasset",
+				"C:/Users/AlvWasHere/Documents/Unreal Projects/RetroStealth_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7X/VNKAHWITIKIMOVB678MZYZ.uasset",
+				"C:/Users/AlvWasHere/Documents/Unreal Projects/RetroStealth_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IH/5K31XLXMMCKJW8TML67GCO.uasset"
+			]
+		}
+	]
+}
